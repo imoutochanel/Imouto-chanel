@@ -1,1 +1,10 @@
-# Imouto-chanel
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=https://sociabuzz.com/imoutochanel" />
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>Redirecting to Sociabuzz...</p>
+  </body>
+</html>
